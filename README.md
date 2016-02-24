@@ -4,6 +4,7 @@
 <ul>CSCI 4900</ul>
 
 <h2>System description</h2>
+<ul>Scan the license information from DoSOCS and stored in SPDX database.</ul>
 <ul>UNIX – Ubuntu version 14.14</ul>
 <ul>maven – version 3.0.5</ul>
 <ul>dosocsv2</ul>
