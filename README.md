@@ -11,7 +11,7 @@
 <ul>git hub</ul>
 
 <h2>Development environment</h2> 
-<ul>our work station</ul>
+<ul>Our work station</ul>
 
 <h2>Communication Management Plan</h2>
 <ul>Adam Nasim </ul>
