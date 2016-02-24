@@ -24,10 +24,10 @@
 <ul>git hub</ul>
 
 <h2>Copyright Declarations</h2>
-Upload license file from DoSOCv2
+<ul>Upload license file from DoSOCv2</ul>
 
- License Choice
-Attribution 4.0 International
+ <h2>License Choice</h2>
+ <ul>Attribution 4.0 International</ul>
 
 
 
