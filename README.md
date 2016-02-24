@@ -1,7 +1,7 @@
 <h1>ASSIGNMENT 1</h1>
-<h4>Adam Nasim</h4>
-<h4>Qais Alhashami</h4>
-<h4>CSCI 4900</h4>
+<ul>Adam Nasim</ul>
+<ul>Qais Alhashami</ul>
+<ul>CSCI 4900</ul>
 
 <h2>System description</h2>
 <ul>UNIX – Ubuntu version 14.14</ul>
