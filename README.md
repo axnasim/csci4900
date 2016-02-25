@@ -17,7 +17,7 @@
 <h2>Communication Management Plan</h2>
 <ul>Adam Nasim </ul>
 <ul>Qais Alhashami</ul>
-<ul>Using Gmav email to communicate.</ul>
+<ul>Using the Github and email to communicate.</ul>
 
 <h2>Community</h2>
 <ul>Fossology</ul>
