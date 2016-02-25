@@ -17,6 +17,7 @@
 <h2>Communication Management Plan</h2>
 <ul>Adam Nasim </ul>
 <ul>Qais Alhashami</ul>
+<ul>Using Gmav email to communicate.</ul>
 
 <h2>Community</h2>
 <ul>Fossology</ul>
@@ -25,7 +26,7 @@
 <ul>git hub</ul>
 
 <h2>Copyright Declarations</h2>
-<ul>Upload license file from DoSOCv2</ul>
+<ul>Upload license file from DoSOCv2 to github</ul>
 
  <h2>License Choice</h2>
  <ul>Attribution 4.0 International</ul>
