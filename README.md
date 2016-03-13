@@ -5,7 +5,7 @@
 
 <h2>System description</h2>
 <ul>Maven – version 3.0.5</ul>
-<ul>DoSOCSv2</ul>
+<ul>DoSOCSv2 https://github.com/DoSOCSv2/DoSOCSv2</ul>
 <ul>SPDX db</ul>
 <ul>Github</ul>
 
