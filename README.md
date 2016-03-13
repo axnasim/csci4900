@@ -1,4 +1,4 @@
-<h1>ASSIGNMENT 1</h1>
+<h1>Group Project</h1>
 <ul>Adam Nasim</ul>
 <ul>Qais Alhashami</ul>
 <ul>CSCI 4900</ul>
