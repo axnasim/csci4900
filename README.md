@@ -13,6 +13,12 @@
 <h2>Development environment</h2> 
 <ul>UNIX – Ubuntu version 14.14 http://www.ubuntu.com/download/desktop</ul>
 
+<h2>Dependencies</h2> 
+<ul>Python 2.7</ul>
+
+
+
+
 
 <h2>Communication Management Plan</h2>
 <ul>Adam Nasim </ul>
