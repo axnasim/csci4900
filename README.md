@@ -376,9 +376,4 @@ library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.
 
 
-<p align="center">
-  <img src="https://cloud.githubusercontent.com/assets/3477769/13759611/088b174a-e9fd-11e5-8164-49104ec5d214.jpg/>
-</p>
-
-
-
+![alt tag](https://cloud.githubusercontent.com/assets/3477769/13759611/088b174a-e9fd-11e5-8164-49104ec5d214.jpg)
