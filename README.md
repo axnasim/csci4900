@@ -31,9 +31,6 @@
 <ul>Apache Maven</ul>
 <ul>Github</ul>
 
-<h2>Copyright Declarations</h2>
-<ul>Upload license file from DoSOCv2 to github</ul>
-
  <h2>License Choice</h2>
  <ul>Attribution 4.0 International</ul>
  
