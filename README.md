@@ -12,6 +12,7 @@
 
 <h2>Development environment</h2> 
 <ul>UNIX – Ubuntu version 14.14 http://www.ubuntu.com/download/desktop</ul>
+<ul>Java - Java version 1.7 </ul>
 
 <h2>Dependencies</h2> 
 <ul>Python 2.7</ul>
