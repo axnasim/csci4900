@@ -4,10 +4,10 @@
 <ul>CSCI 4900</ul>
 
 <h2>User Case</h2>
-![alt tag](https://github.com/axnasim/csci4900/files/176553/pom.docx)
+![Pom.xml](https://github.com/axnasim/csci4900/files/176553/pom.docx)
 
 <h2>Mockup System Flow</h2>
-![alt tag]()
+![Mockup](https://github.com/axnasim/csci4900/files/176561/Mockup.System.txt)
 
 <h2>System description</h2>
 <ul>Maven – version 3.0.5</ul>
