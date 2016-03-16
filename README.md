@@ -6,9 +6,6 @@
 <h2>User Case</h2>
 ![Pom.xml](https://github.com/axnasim/csci4900/files/176553/pom.docx)
 
-<h2>Mockup System Flow</h2>
-![Mockup](https://github.com/axnasim/csci4900/files/176561/Mockup.System.txt)
-
 <h2>System description</h2>
 <ul>Maven – version 3.0.5</ul>
 <ul>DoSOCSv2 https://github.com/DoSOCSv2/DoSOCSv2</ul>
