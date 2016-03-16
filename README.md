@@ -1,7 +1,7 @@
-<h1>Group Project</h1>
+<h1>Group Project CSCI4900</h1>
 <ul>Adam Nasim</ul>
 <ul>Qais Alhashami</ul>
-<ul>CSCI 4900</ul>
+
 
 <h2>User Case</h2>
 ![Pom.xml](https://github.com/axnasim/csci4900/files/176553/pom.docx)
