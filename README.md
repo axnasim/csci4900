@@ -3,6 +3,12 @@
 <ul>Qais Alhashami</ul>
 <ul>CSCI 4900</ul>
 
+<h2>User Case</h2>
+![alt tag](https://github.com/axnasim/csci4900/files/176553/pom.docx)
+
+<h2>Mockup System Flow</h2>
+![alt tag]()
+
 <h2>System description</h2>
 <ul>Maven – version 3.0.5</ul>
 <ul>DoSOCSv2 https://github.com/DoSOCSv2/DoSOCSv2</ul>
@@ -377,5 +383,5 @@ Public License instead of this License.
 
 
 
-<ul>DFD</ul>
+<h2>DFD</h2>
 ![alt tag](https://cloud.githubusercontent.com/assets/3477769/13759611/088b174a-e9fd-11e5-8164-49104ec5d214.jpg)
