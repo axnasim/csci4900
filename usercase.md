@@ -1,9 +1,9 @@
-Title - User Case
+## Title - User Case
 
-<ul>Primary Actor</ul>
-    Nasim and Al-Hashami
+## Primary Actor
+Nasim and Al-Hashami
 
-Goal in context
+## Goal in context
 
 maven-dependency-plugin
 
@@ -11,7 +11,7 @@ maven-dependency-plugin
 <groupId>junit</groupId>
 <artifactId>junit</artifactId>
 <version>${junit.version}</version>
-</dependency>
+</dependency></ul>
 
 <dependency><groupId>org.springframework</groupId>
 <artifactId>spring-core</artifactId>
@@ -38,17 +38,17 @@ ExtractedText: <text></text>
 LicenseCrossReference: 
 LicenseComment: <text>found by nomos</text>
 
-Stakeholder
+## Stakeholder
 Are the group members((Adam Nasim and Qais Al-Hashami) and Instructor)
 
-Preconditions
+## Preconditions
 A valid pom.xml file containing dependencies is needed to produce results.
 
-Success Scenario
+## Success Scenario
 If dependency tree structure is created, parsing license and other information into DB.
 
-Failure
+## Failure
 Lack of tree structure, database and license information.
 
-Trigger 
+## Trigger 
 A pom.xml is needed to initiate a success scenario.
