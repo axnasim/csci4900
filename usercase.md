@@ -1,6 +1,6 @@
 Title - User Case
 
-Primary Actor
+<ul>Primary Actor</ul>
 Nasim and Al-Hashami
 
 Goal in context
