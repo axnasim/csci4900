@@ -39,7 +39,7 @@ LicenseCrossReference:
 LicenseComment: <text>found by nomos</text>
 
 ## Stakeholder
-Are the group members((Adam Nasim and Qais Al-Hashami) and Instructor)
+Users
 
 ## Preconditions
 A valid pom.xml file containing dependencies is needed to produce results.
