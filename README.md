@@ -30,7 +30,7 @@
 <h2>Communication Management Plan</h2>
 <ul>Adam Nasim </ul>
 <ul>Qais Alhashami</ul>
-<ul>Using the Github and email to communicate.</ul>
+<ul>Using the Github to communicate. We post the issues in the github and each one of us can read that issues and trying to fix or edit. In addition, write a comment what is each one of us did.</ul>
 
 <h2>Community</h2>
 <ul>Fossology</ul>
