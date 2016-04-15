@@ -2,15 +2,13 @@
 <ul>Adam Nasim</ul>
 <ul>Qais Alhashami</ul>
 
-<h2>Syestem Mock-up</h2>
-<ul>Fetch pom.xml Parse package info and store in tmp folder Scan package to determine dependencies Scan package to create SPDX document Dump into Dosocs2 DB Create project hierarchy for packages</ul>
-
 
 <h2>System description</h2>
 <ul>Maven – version 3.0.5</ul>
 <ul>DoSOCSv2 https://github.com/DoSOCSv2/DoSOCSv2</ul>
 <ul>SPDX db</ul>
 <ul>Github</ul>
+<ul>Fetch pom.xml Parse package info and store in tmp folder Scan package to determine dependencies Scan package to create SPDX document Dump into Dosocs2 DB Create project hierarchy for packages. In addition jar files sends to DoSocs for scanned and after that send it to the temp folder.</ul>
 
 
 <h2>Development environment</h2> 
