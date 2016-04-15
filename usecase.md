@@ -40,6 +40,7 @@ LicenseComment: <text>found by nomos</text>
 
 ## Stakeholder
 Users
+Temp File
 
 ## Preconditions
 A valid pom.xml file containing dependencies is needed to produce results.
