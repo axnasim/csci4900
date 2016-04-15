@@ -6,9 +6,6 @@
 <ul>Fetch pom.xml Parse package info and store in tmp folder Scan package to determine dependencies Scan package to create SPDX document Dump into Dosocs2 DB Create project hierarchy for packages</ul>
 
 
-<h2>User Case</h2>
-![Pom.xml](https://github.com/axnasim/csci4900/files/176553/pom.docx)
-
 <h2>System description</h2>
 <ul>Maven – version 3.0.5</ul>
 <ul>DoSOCSv2 https://github.com/DoSOCSv2/DoSOCSv2</ul>
