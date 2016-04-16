@@ -39,8 +39,8 @@ LicenseCrossReference:
 LicenseComment: <text>found by nomos</text>
 
 ## Stakeholder
-<groupId>Users</groupId>
-<groupId>Community<groupId>
+<ul>Users</ul>
+<ul>Community</ul>
 
 
 ## Preconditions
