@@ -1,7 +1,7 @@
 ## Title - Use Case
 
 ## Primary Actor
-Developers
+Developers, End Users
 
 ## Goal in context
 
