@@ -377,7 +377,7 @@ library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.
 
 
-<h2DB Schema</h2>
+<h2>DB Schema</h2>
 ![alt tag](https://cloud.githubusercontent.com/assets/3477769/14579396/daaa7c10-036c-11e6-9a0b-e3df2d840e12.png)
 
 <h2>DFD</h2>
