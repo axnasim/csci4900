@@ -39,8 +39,9 @@ LicenseCrossReference:
 LicenseComment: <text>found by nomos</text>
 
 ## Stakeholder
-Users
-Community
+<groupId>Users</groupId>
+<groupId>Community<groupId>
+
 
 ## Preconditions
 A valid pom.xml file containing dependencies is needed to produce results.
