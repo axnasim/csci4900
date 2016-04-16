@@ -1,2 +1,3 @@
 mvn -q dependency:copy-dependencies -DoutputDirectory=myfolder
 mvn dependency:tree -DoutputFile=graphml -DoutputType='tgf'
+cat graphml|sed '/|  +- /s/$/ - HAS PREREQ/'
