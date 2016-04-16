@@ -8,7 +8,7 @@
 <ul>DoSOCSv2 https://github.com/DoSOCSv2/DoSOCSv2</ul>
 <ul>SPDX db</ul>
 <ul>Github</ul>
-<ul>Fetch pom.xml Parse package info and store in tmp folder Scan package to determine dependencies Scan package to create SPDX document Dump into Dosocs2 DB Create project hierarchy for packages. In addition jar files sends to DoSocs for scanned and after that send it to the temp folder.</ul>
+<ul>Fetch pom.xml Parse package info and store in tmp folder Scan package to determine dependencies Scan package to create SPDX document Dump into Dosocs2 DB Create project hierarchy for packages. In addition jar files sends to DoSocs for scanned and after that send it to the temp folder. After scanning the pom.xml file sorting the information in the database.</ul>
 
 
 <h2>Development environment</h2> 
