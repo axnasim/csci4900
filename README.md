@@ -36,7 +36,7 @@ Get maven from [maven.org](https://maven.apache.org/download.cgi)
 
 To install run
 
-   $ sudo apt-get install maven
+    $ sudo apt-get install maven
 
 <h2>Communication Management Plan</h2>
 <ul>Adam Nasim </ul>
