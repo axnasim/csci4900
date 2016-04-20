@@ -28,7 +28,7 @@ on request.
 Installation
 ------------
 
-### Are available [here](https://github.com/axnasim/DoSOCSv2/blob/master/README.md)
+Get installation instructions [here](https://github.com/axnasim/DoSOCSv2/blob/master/README.md)
 
 
 <h2>Maven Install </h2>
