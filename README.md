@@ -33,7 +33,9 @@ Get installation instructions [here](https://github.com/axnasim/DoSOCSv2/blob/ma
 
 <h2>Maven Install </h2>
 Get maven from [maven.org](https://maven.apache.org/download.cgi)
+
 To install run
+
 sudo apt-get install maven
 
 <h2>Communication Management Plan</h2>
