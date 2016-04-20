@@ -144,30 +144,15 @@ Use `dosocs2 --help` to get the full help text. The `doc` directory
 here also provides more detailed information about how `dosocs2` works
 and how to use it.
 
-
-History
--------
-
-dosocs2 owes its name and concept to the
-[DoSOCS](https://github.com/socs-dev-env/DoSOCS) tool created by Zac
-McFarland, which in turn was spun off from the [do_spdx](https://github.com/ttgurney/yocto-spdx/blob/master/src/spdx.bbclass) plugin for Yocto
-Project, created by Jake Cloyd and Liang Cao.
-
-dosocs2 aims to fill the same role as DoSOCS, but with support for SPDX 2.x, a
-larger feature set, and a more modular implementation, among other changes.
-
-Maintainers
------------
-
-[DoSOCSv2 organization](https://github.com/DoSOCSv2)
-
-(This work has been funded through the National Science Foundation VOSS-IOS Grant: 1122642.)
-
+<h2>Maven Install </h2>
+Get maven from [maven.org](https://maven.apache.org/download.cgi)
+To install run
+sudo apt-get install maven
 
 <h2>Communication Management Plan</h2>
 <ul>Adam Nasim </ul>
 <ul>Qais Alhashami</ul>
-<ul>Using Github to communicate. Issues will be posted github and email, text may also be used for communication.</ul>
+<ul>Using Github to communicate. Issues will be posted github for team members to comments and update. Text and email may also be used for communication.</ul>
 
 <h2>Community</h2>
 <ul>Fossology</ul>
