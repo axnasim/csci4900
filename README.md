@@ -16,11 +16,13 @@ Ubuntu version 14.14
 <ul>http://www.ubuntu.com/download/desktop</ul>
 Python - 2.7.x
 <ul>https://www.python.org/downloads/</ul>
+Dependency
+<ul> Maven, DOSOCS, SQLite3 </ul>
 
 <h2>Communication Management Plan</h2>
 <ul>Adam Nasim </ul>
 <ul>Qais Alhashami</ul>
-<ul>Using the Github to communicate. We post the issues in the github and each one of us can read that issues and trying to fix or edit. In addition, write a comment what is each one of us did.</ul>
+<ul>Using Github to communicate. Issues will be posted github and email, text may also be used for communication.</ul>
 
 <h2>Community</h2>
 <ul>Fossology</ul>
