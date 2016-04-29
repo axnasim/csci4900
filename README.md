@@ -26,7 +26,7 @@ information in a relational database, and extract it in a plain-text format
 on request.
 
 <h2>Installation</h2>
-DoSOCS2: ------------
+DoSOCS2:
 
 Get installation instructions [here](https://github.com/axnasim/DoSOCSv2/blob/master/README.md)
 
