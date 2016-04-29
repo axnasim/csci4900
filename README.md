@@ -25,7 +25,7 @@ scan source code distributions to produce SPDX information, store that
 information in a relational database, and extract it in a plain-text format
 on request.
 
-Installation
+<h2>Installation</h2>
 
 ------------
 
