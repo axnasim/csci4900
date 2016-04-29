@@ -5,6 +5,7 @@ Developers, End Users
 
 ## Goal in context
 Use pom.xml file to get the relationships and post the results in SPDX DB.
+
 maven-dependency-plugin
 
 <dependency>
