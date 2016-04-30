@@ -8,7 +8,7 @@
 <ul>DoSOCSv2 https://github.com/DoSOCSv2/DoSOCSv2</ul>
 <ul>SPDX db</ul>
 <ul>Github</ul>
-<ul>Fetch pom.xml Parse package info and store in tmp folder Scan package to determine dependencies Scan package to create SPDX document Dump into Dosocs2 DB Create project hierarchy for packages. In addition jar files sends to DoSocs for scanned and after that send it to the temp folder. After scanning the pom.xml file sorting the information in the database.</ul>
+<ul>Fetch pom.xml Parse package info and store in tmp folder Scan package to determine dependencies Scan package to create SPDX document Dump into Dosocs2 DB Create project hierarchy for packages. In addition, the purpose of our project is to use maven to get project level dependencies using that pom.xml supplied by the user. DoSOCS will be used to scan the jar files to obtain license information and also create SPDX documents. After scanning the pom.xml file sorting the information in the database. After that we will able to view the dependencies for the projects, all jar files, and scan/oneshot them to the db and create a SPDX document for the relationships.</ul>
 
 
 <h2>Development environment</h2> 
