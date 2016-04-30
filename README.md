@@ -39,7 +39,7 @@ To install run
     $ sudo apt-get install maven
 
 <h2>Usage</h2>
-<ul>Run in python [virtualenv](http://docs.python-guide.org/en/latest/dev/virtualenvs/)</ul>
+Run in python [virtualenv](http://docs.python-guide.org/en/latest/dev/virtualenvs/)
 <ul>Be sure to activate the virtualenv - source venv/bin/activate</ul>
 <ul>In the location of the pom.xml run mavpom.sh and the jar.py</ul>
 <ul>The dependancy tree will be stored in a text file.</ul>
