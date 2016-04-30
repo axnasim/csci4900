@@ -38,6 +38,12 @@ To install run
 
     $ sudo apt-get install maven
 
+<h2>Usage</h2>
+<ul>First need to install DoSOCS inside virtualenv</ul>
+<ul>To change to virtualenv type source venv/bin/activate</ul>
+<ul>Download jar.py and mavpom.sh</ul>
+<ul>Run jar.py and mavpom.sh to get the level dependencies and relationships</ul>
+
 <h2>Communication Management Plan</h2>
 <ul>Adam Nasim </ul>
 <ul>Qais Alhashami</ul>
